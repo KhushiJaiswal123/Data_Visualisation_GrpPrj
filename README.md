@@ -1,4 +1,4 @@
-# Data Visualisation Project Proposal: The Link Between Teenage Mental Health Issues and Social Media Usage
+# Data Visualisation Project Proposal: Teenage Mental Health Issues
 
 ### Overview  
 
